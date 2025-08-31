@@ -1,7 +1,8 @@
-# QR Code Generator  
+
+# QR Code Generator
 
 A simple Python program to generate customizable QR codes.  
-You can enter text or links, choose foreground and background colors, and even add a logo inside the QR code.  
+You can enter text or links, choose foreground and background colors, and even add a logo inside the QR code.
 
 ---
 
@@ -15,9 +16,38 @@ You can enter text or links, choose foreground and background colors, and even a
 ---
 
 ## ⚙️ Requirements
-Make sure you have Python installed along with the following libraries:  
+Make sure you have Python installed along with the following libraries:
 
 ```bash
 pip install qrcode[pil] pillow
+````
 
-(You can later add a sample QR code image here to make it look even cooler.)
+---
+
+## 🚀 How to Run
+
+Clone this repository:
+
+```bash
+git clone https://github.com/your-username/qrcode_generator.git
+cd qrcode_generator
+```
+
+Run the script:
+
+```bash
+python qr_code.py
+```
+
+Enter your text or link, choose colors, and (optionally) add a logo.
+
+The program will generate and save your QR code as a PNG file, and also display it.
+Try scanning the QR code with your phone — it works instantly! 📷
+
+---
+
+
+
+
+The program will generate and save your QR code as a PNG file, and also display it.
+Try scanning the QR code with your phone — it works instantly! 📷
