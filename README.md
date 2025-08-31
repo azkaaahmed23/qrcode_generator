@@ -38,16 +38,10 @@ Run the script:
 ```bash
 python qr_code.py
 ```
-
+---
 Enter your text or link, choose colors, and (optionally) add a logo.
 
 The program will generate and save your QR code as a PNG file, and also display it.
 Try scanning the QR code with your phone — it works instantly! 📷
 
 ---
-
-
-
-
-The program will generate and save your QR code as a PNG file, and also display it.
-Try scanning the QR code with your phone — it works instantly! 📷
