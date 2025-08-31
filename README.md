@@ -45,3 +45,12 @@ The program will generate and save your QR code as a PNG file, and also display 
 Try scanning the QR code with your phone — it works instantly! 📷
 
 ---
+## 🖼️ Example with Logo
+
+Here’s a sample QR code generated with a GitHub logo inside:
+
+![QR Code with GitHub Logo](github_logo.png)
+
+---
+
+---
