@@ -6,7 +6,7 @@ You can enter text or links, choose foreground and background colors, and even a
 
 ---
 
-## ✨ Features
+## Features
 - Generate QR codes for text, URLs, or any data  
 - Customize colors (foreground & background)  
 - Optionally add a logo in the center  
@@ -15,7 +15,7 @@ You can enter text or links, choose foreground and background colors, and even a
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 Make sure you have Python installed along with the following libraries:
 
 ```bash
@@ -24,7 +24,7 @@ pip install qrcode[pil] pillow
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone this repository:
 
@@ -45,7 +45,7 @@ The program will generate and save your QR code as a PNG file, and also display 
 Try scanning the QR code with your phone — it works instantly! 📷
 
 ---
-## 🖼️ Example with Logo
+##  Example with Logo
 
 Here’s a sample QR code generated with a GitHub logo inside:
 
@@ -53,4 +53,3 @@ Here’s a sample QR code generated with a GitHub logo inside:
 
 ---
 
----
